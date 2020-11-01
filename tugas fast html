@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sneakers</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="header-left">
+          <img class="logo" src="flight.jpg">
+        </div>
+        <span class="fa fa-bars menu-icon"></span>
+        <div class="header-right">
+          <a href="#">Location</a>
+          <a href="#">about us</a>
+          <a href="#" class="login">Log in</a>
+        </div>
+      </div>
+    </header>
+    <div class="top-wrapper">
+      <div class="container">
+        <h1>most complete</h1>
+        <h1>sneakers collection</h1>
+        <p>this web is the most complete sneakers collection.</p>
+        <div class="btn-wrapper">
+          <a href="#" class="btn signup">Sign up with Email</a>
+          <p>or</p>
+          <a href="#" class="btn facebook"><span class="fa fa-facebook"></span>Sign up with Facebook</a>
+        </div>
+      </div>
+    </div>
+    <div class="lesson-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>Let's Get Started!</h2>
+        </div>
+        <div class="lessons">
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="download.jpg">
+            </div>
+            <p class="text-contents"> Air Jordan</p>
+          </div>
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="1.jpg" height="200px" width="200px">
+            </div>
+            <p class="text-contents">yeezy</p>
+          </div>
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="puma.jpg"height="200px" width="200px">
+            </div>
+            <p class="text-contents">puma</p>
+          </div>
+          <div class="lesson">
+            <div class="lesson-icon">
+              <img src="random.jpg"height="200px" width="200px">
+            </div>
+            <p class="text-contents">other</p>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+    <div class="message-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>Ready to become hypebeast</h2>
+          <h3>Let's search for some shoes</h3>
+        </div>
+        <span class="btn message">search</span>
+      </div>
+    </div>
+    <div class="contact-form">
+        <h3 class="section-title">Contact us</h3>
+        <p>Email (Required)</p>
+        <input>
+        <p>Message (Required)</p>
+        <textarea></textarea>
+        <p>* Required fields must be filled</p>
+        <input class="contact-submit" type="submit" value="Send">
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        <img src="flight.jpg">
+        <p>welcome to the sneakers family</p>
+      </div>
+      <div class="footer-list">
+          <ul>
+            <li>About</li>
+            <li>Jobs</li>
+            <li>Contact us</li>
+          </ul>
+        </div>
+      </div>
+    </body>
+  </html>
